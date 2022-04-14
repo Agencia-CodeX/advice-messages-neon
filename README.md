@@ -80,7 +80,7 @@ $ yarn dev
 
 The following tools were used in building the project:
 
-#### **Website**  ([React js](https://reactjs.org/)  + [Next js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/) + [Sass](https://sass-lang.com/)
+#### **Website**  ([React js](https://reactjs.org/)  + [Next js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/) + [Sass](https://sass-lang.com/))
 
 -   ReactJS
 -   NextJs
