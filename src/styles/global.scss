@@ -130,5 +130,15 @@ button {
     }
 }
 
+@media (max-width: 800px) {
+    .neon {
+        font-size: 2rem;
+    }
+
+    button {
+        font-size: 1rem;
+    }
+}
+
 
 
