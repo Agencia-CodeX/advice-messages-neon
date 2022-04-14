@@ -48,7 +48,7 @@ Advices generator - is an application developed in React js with Next js and Typ
 
 ## 🚀 How to run the project
 
-### Pré-requisitos
+### Prerequisites
 
 Before starting, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Yarn](https://yarnpkg.com/), [node](https://nodejs.org/en/). 
