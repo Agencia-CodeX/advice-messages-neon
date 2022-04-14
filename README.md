@@ -27,13 +27,13 @@
 	🚧   Completed 🚀 🚧
 </h4>
 
-## 💻 Sobre o projeto
+## 💻 About the project
 
 Advices generator - is an application developed in React js with Next js and Typescript that consumes an external API returning an advice.
 
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️ Functionalities
 
 - [x] Make the query in an external api.
 - [x] Displays random advice.
